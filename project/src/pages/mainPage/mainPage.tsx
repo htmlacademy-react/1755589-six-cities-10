@@ -1,4 +1,4 @@
-import CardComponent from '../../components/cardComponent';
+import CardComponent from '../../components/card-component/cardComponent';
 
 type MainPageProps = {
   placesCount: number;
